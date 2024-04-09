@@ -1,0 +1,7 @@
+2012-01-01 09:08 BOG Libros 88.56 Discover
+2012-01-01 09:52 BGA Libros 62.41 Discover
+2012-01-01 10:08 MED Musica 93.37 Visa
+2012-01-01 10:58 MED Musica 395.93 Discover
+2012-01-01 14:38 BOG Musica 113.24 MasterCard
+2012-01-01 14:44 BGA Libros 290.5 Visa
+2012-01-01 16:26 MED Musica 246.12 Efectivo
